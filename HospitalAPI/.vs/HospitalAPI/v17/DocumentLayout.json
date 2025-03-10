@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TRAINING\\Wiprom Phase 2\\Day-9 Project\\HospitalAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D057567-4291-4C35-82F5-85163CEAC631}|HospitalAPI\\HospitalAPI.csproj|d:\\training\\wiprom phase 2\\day-9 project\\hospitalapi\\hospitalapi\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D057567-4291-4C35-82F5-85163CEAC631}|HospitalAPI\\HospitalAPI.csproj|solutionrelative:hospitalapi\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D057567-4291-4C35-82F5-85163CEAC631}|HospitalAPI\\HospitalAPI.csproj|d:\\training\\wiprom phase 2\\day-9 project\\hospitalapi\\hospitalapi\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D057567-4291-4C35-82F5-85163CEAC631}|HospitalAPI\\HospitalAPI.csproj|solutionrelative:hospitalapi\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D057567-4291-4C35-82F5-85163CEAC631}|HospitalAPI\\HospitalAPI.csproj|d:\\training\\wiprom phase 2\\day-9 project\\hospitalapi\\hospitalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D057567-4291-4C35-82F5-85163CEAC631}|HospitalAPI\\HospitalAPI.csproj|solutionrelative:hospitalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D057567-4291-4C35-82F5-85163CEAC631}|HospitalAPI\\HospitalAPI.csproj|d:\\training\\wiprom phase 2\\day-9 project\\hospitalapi\\hospitalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7D057567-4291-4C35-82F5-85163CEAC631}|HospitalAPI\\HospitalAPI.csproj|solutionrelative:hospitalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D057567-4291-4C35-82F5-85163CEAC631}|HospitalAPI\\HospitalAPI.csproj|d:\\training\\wiprom phase 2\\day-9 project\\hospitalapi\\hospitalapi\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D057567-4291-4C35-82F5-85163CEAC631}|HospitalAPI\\HospitalAPI.csproj|solutionrelative:hospitalapi\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D057567-4291-4C35-82F5-85163CEAC631}|HospitalAPI\\HospitalAPI.csproj|d:\\training\\wiprom phase 2\\day-9 project\\hospitalapi\\hospitalapi\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D057567-4291-4C35-82F5-85163CEAC631}|HospitalAPI\\HospitalAPI.csproj|solutionrelative:hospitalapi\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D057567-4291-4C35-82F5-85163CEAC631}|HospitalAPI\\HospitalAPI.csproj|d:\\training\\wiprom phase 2\\day-9 project\\hospitalapi\\hospitalapi\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D057567-4291-4C35-82F5-85163CEAC631}|HospitalAPI\\HospitalAPI.csproj|solutionrelative:hospitalapi\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D057567-4291-4C35-82F5-85163CEAC631}|HospitalAPI\\HospitalAPI.csproj|d:\\training\\wiprom phase 2\\day-9 project\\hospitalapi\\hospitalapi\\data\\hospitalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D057567-4291-4C35-82F5-85163CEAC631}|HospitalAPI\\HospitalAPI.csproj|solutionrelative:hospitalapi\\data\\hospitalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\TRAINING\\Wiprom Phase 2\\Day-9 Project\\HospitalAPI\\HospitalAPI\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "HospitalAPI\\Models\\LoginRequest.cs",
+              "ToolTip": "D:\\TRAINING\\Wiprom Phase 2\\Day-9 Project\\HospitalAPI\\HospitalAPI\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "HospitalAPI\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T09:29:10.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "D:\\TRAINING\\Wiprom Phase 2\\Day-9 Project\\HospitalAPI\\HospitalAPI\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "HospitalAPI\\Controllers\\PatientsController.cs",
+              "ToolTip": "D:\\TRAINING\\Wiprom Phase 2\\Day-9 Project\\HospitalAPI\\HospitalAPI\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "HospitalAPI\\Controllers\\PatientsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T04:19:39.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "D:\\TRAINING\\Wiprom Phase 2\\Day-9 Project\\HospitalAPI\\HospitalAPI\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "HospitalAPI\\Controllers\\DoctorsController.cs",
+              "ToolTip": "D:\\TRAINING\\Wiprom Phase 2\\Day-9 Project\\HospitalAPI\\HospitalAPI\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "HospitalAPI\\Controllers\\DoctorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T04:17:25.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "D:\\TRAINING\\Wiprom Phase 2\\Day-9 Project\\HospitalAPI\\HospitalAPI\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "HospitalAPI\\Models\\Patient.cs",
+              "ToolTip": "D:\\TRAINING\\Wiprom Phase 2\\Day-9 Project\\HospitalAPI\\HospitalAPI\\Models\\Patient.cs",
+              "RelativeToolTip": "HospitalAPI\\Models\\Patient.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T04:13:02.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\TRAINING\\Wiprom Phase 2\\Day-9 Project\\HospitalAPI\\HospitalAPI\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "HospitalAPI\\Models\\Doctor.cs",
+              "ToolTip": "D:\\TRAINING\\Wiprom Phase 2\\Day-9 Project\\HospitalAPI\\HospitalAPI\\Models\\Doctor.cs",
+              "RelativeToolTip": "HospitalAPI\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T04:12:28.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TRAINING\\Wiprom Phase 2\\Day-9 Project\\HospitalAPI\\HospitalAPI\\Program.cs",
+              "RelativeDocumentMoniker": "HospitalAPI\\Program.cs",
+              "ToolTip": "D:\\TRAINING\\Wiprom Phase 2\\Day-9 Project\\HospitalAPI\\HospitalAPI\\Program.cs",
+              "RelativeToolTip": "HospitalAPI\\Program.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAgwFkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T04:06:50.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\TRAINING\\Wiprom Phase 2\\Day-9 Project\\HospitalAPI\\HospitalAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "HospitalAPI\\appsettings.json",
+              "ToolTip": "D:\\TRAINING\\Wiprom Phase 2\\Day-9 Project\\HospitalAPI\\HospitalAPI\\appsettings.json",
+              "RelativeToolTip": "HospitalAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-10T04:05:33.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HospitalContext.cs",
+              "DocumentMoniker": "D:\\TRAINING\\Wiprom Phase 2\\Day-9 Project\\HospitalAPI\\HospitalAPI\\Data\\HospitalContext.cs",
+              "RelativeDocumentMoniker": "HospitalAPI\\Data\\HospitalContext.cs",
+              "ToolTip": "D:\\TRAINING\\Wiprom Phase 2\\Day-9 Project\\HospitalAPI\\HospitalAPI\\Data\\HospitalContext.cs",
+              "RelativeToolTip": "HospitalAPI\\Data\\HospitalContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T04:05:07.494Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
